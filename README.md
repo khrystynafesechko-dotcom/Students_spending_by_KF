@@ -50,6 +50,9 @@ Compared financial behavior across study levels
 
 Dashboard features
 
+![Dashboard](Dashboard.png)
+
+
 KPI metrics:
 Total spending
 Total available funds
